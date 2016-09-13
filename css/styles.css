@@ -1,4 +1,13 @@
+hr {
+height: 3px;
+color: #ffb74d;
+background-color: #ffb74d;
+border: none;
+}
 
+#section-title {
+  border-top: 16px;
+}
 
 .feature-item {
   border: 1px solid rgba(0,0,0,0.5);
@@ -58,7 +67,7 @@ figure {
 h2 {
     display: block;
     font-size: 1.5em;
-    -webkit-margin-before: 0.83em;
+    -webkit-margin-before: 2.83em;
     -webkit-margin-after: 0.83em;
     -webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
