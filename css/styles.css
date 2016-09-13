@@ -84,7 +84,6 @@ p {
   margin-right: auto;
   background-color: rgba(138, 138, 138, 0.15);
   max-width: 1080px;
-  border: 1px solid red;
   -webkit-box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.75);
   -moz-box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.75);
   box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.75);
